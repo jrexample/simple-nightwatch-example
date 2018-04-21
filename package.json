@@ -1,0 +1,16 @@
+{
+  "name": "simple-nightwatchjs-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/nightwatch --config nightwatch.conf.js"
+  },
+  "author": "jrusly",
+  "license": "MIT",
+  "dependencies": {
+    "chromedriver": "^2.38.0",
+    "nightwatch": "^0.9.20",
+    "selenium-server": "^3.11.0"
+  }
+}
