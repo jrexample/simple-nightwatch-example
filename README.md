@@ -10,4 +10,4 @@ E2E testing for <a href="https://simple-graphql-example-client.herokuapp.com">Si
 - Node.js (v8.11.1)
 - Nightwatch.js
 
-<a href="https://hub.docker.com/r/jackyrusly/nightwatchjs/">Docker Image</a>
+<a href="https://hub.docker.com/r/jackyrusly/nightwatch/">Docker Image</a>
