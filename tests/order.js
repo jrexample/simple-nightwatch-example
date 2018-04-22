@@ -2,9 +2,9 @@ const customer = require('./customer');
 const product = require('./product');
 
 const createDataUtil = {
-    '[Create] Customer Page': customer['Open Customer Page'],
+    '[Create] Open Customer Page': customer['Open Customer Page'],
     'Create Customer': customer['Create Customer'],
-    '[Create] Product Page': product['Open Product Page'],
+    '[Create] Open Product Page': product['Open Product Page'],
     'Create Product': product['Create Product'],
 };
 
