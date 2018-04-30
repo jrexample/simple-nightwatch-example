@@ -2,14 +2,20 @@
 
 E2E testing for <a href="https://simple-graphql-example-client.herokuapp.com">Simple GraphQL Example</a>
 
-### Demo
+## Usage
 ```
 npm install
 npm test
 ```
 
-### Built With
+## Built With
 - Node.js (v8.11.1)
 - Nightwatch.js
+
+## Author
+[Jacky Rusly](https://www.jackyrusly.web.id)
+
+## License
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT)
 
 <a href="https://hub.docker.com/r/jackyrusly/nightwatch/">Docker Image</a>
