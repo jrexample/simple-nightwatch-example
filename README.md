@@ -3,8 +3,10 @@
 E2E testing for <a href="https://simple-graphql-example-client.herokuapp.com">Simple GraphQL Example</a>
 
 ### Demo
-- npm install
-- npm test
+```
+npm install
+npm test
+```
 
 ### Built With
 - Node.js (v8.11.1)
