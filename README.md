@@ -2,6 +2,9 @@
 
 E2E testing for <a href="https://simple-graphql-example-client.herokuapp.com">Simple GraphQL Example</a>
 
+## Docker
+<a href="https://hub.docker.com/r/jackyrusly/nightwatch/">Docker Image</a>
+
 ## Usage
 ```
 npm install
@@ -17,5 +20,3 @@ npm test
 
 ## License
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT)
-
-<a href="https://hub.docker.com/r/jackyrusly/nightwatch/">Docker Image</a>
